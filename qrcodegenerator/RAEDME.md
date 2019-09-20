@@ -1,0 +1,1 @@
+Originate source: [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator/tree/master/java)

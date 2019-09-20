@@ -1,0 +1,2 @@
+include ':app',  ':qrcodegenerator'
+rootProject.name='TinyText2QrCode'
