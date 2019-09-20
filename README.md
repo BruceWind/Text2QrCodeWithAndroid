@@ -1,3 +1,4 @@
+[中文](https://github.com/BruceWind/Text2QrCodeWithAndroid/blob/master/README.zh-CN.md)
 Text to Qr Code with Java
 -----------------------
 
